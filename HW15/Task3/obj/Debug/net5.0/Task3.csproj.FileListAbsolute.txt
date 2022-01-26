@@ -1,0 +1,16 @@
+D:\Programming\Programs\HW15\Task3\bin\Debug\net5.0\Task3.exe
+D:\Programming\Programs\HW15\Task3\bin\Debug\net5.0\Task3.deps.json
+D:\Programming\Programs\HW15\Task3\bin\Debug\net5.0\Task3.runtimeconfig.json
+D:\Programming\Programs\HW15\Task3\bin\Debug\net5.0\Task3.runtimeconfig.dev.json
+D:\Programming\Programs\HW15\Task3\bin\Debug\net5.0\Task3.dll
+D:\Programming\Programs\HW15\Task3\bin\Debug\net5.0\ref\Task3.dll
+D:\Programming\Programs\HW15\Task3\bin\Debug\net5.0\Task3.pdb
+D:\Programming\Programs\HW15\Task3\obj\Debug\net5.0\Task3.csproj.AssemblyReference.cache
+D:\Programming\Programs\HW15\Task3\obj\Debug\net5.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Programs\HW15\Task3\obj\Debug\net5.0\Task3.AssemblyInfoInputs.cache
+D:\Programming\Programs\HW15\Task3\obj\Debug\net5.0\Task3.AssemblyInfo.cs
+D:\Programming\Programs\HW15\Task3\obj\Debug\net5.0\Task3.csproj.CoreCompileInputs.cache
+D:\Programming\Programs\HW15\Task3\obj\Debug\net5.0\Task3.dll
+D:\Programming\Programs\HW15\Task3\obj\Debug\net5.0\ref\Task3.dll
+D:\Programming\Programs\HW15\Task3\obj\Debug\net5.0\Task3.pdb
+D:\Programming\Programs\HW15\Task3\obj\Debug\net5.0\Task3.genruntimeconfig.cache
